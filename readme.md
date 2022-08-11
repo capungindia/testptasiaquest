@@ -1,4 +1,4 @@
-#How to install this apps
+# How to install this apps
 
 ubah isian DB_HOST, DB_PORT, DB_DATABASE, DB_USERNAME, DB_PASSWORD pada file .env sesuai dengan database yang akan anda gunakan
 
